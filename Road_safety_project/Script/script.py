@@ -1,5 +1,3 @@
-
-
 #Datopian - Data Wrangling Challenge (Script)
 
 
