@@ -1,0 +1,84 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "european_union_road_safety_facts_and_figures",
+      "path": "https://github.com/Ojosticka/Data-Wrangling-Exercise/blob/main/Road_safety_project/data/data.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "column1",
+            "type": "string",
+            "format": "default",
+            "title": "Country"
+          },
+          {
+            "name": "column2",
+            "type": "year",
+            "format": "default",
+            "title": "Year"
+          },
+          {
+            "name": "column3",
+            "type": "number",
+            "format": "default",
+            "title": "Area"
+          },
+          {
+            "name": "column4",
+            "type": "integer",
+            "format": "default",
+            "title": "Population"
+          },
+          {
+            "name": "column5",
+            "type": "integer",
+            "format": "default",
+            "title": "GDP per Capita"
+          },
+          {
+            "name": "column6",
+            "type": "integer",
+            "format": "default",
+            "title": "Population Density"
+          },
+          {
+            "name": "column7",
+            "type": "integer",
+            "format": "default",
+            "title": "Vehicle Ownership"
+          },
+          {
+            "name": "column8",
+            "type": "integer",
+            "format": "default",
+            "title": "Total Road Deaths"
+          },
+          {
+            "name": "column9",
+            "type": "integer",
+            "format": "default",
+            "title": "Road deaths per Million Inhabitants"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "tabular-data-package",
+  "title": "Road_safety_project",
+  "homepage": "https://github.com/Ojosticka/Data-Wrangling-Exercise",
+  "description": "This Road safety dataset encompasses countries in the European Union and their Road Safety facts and figures",
+  "contributors": [
+    {
+      "title": "Oluwatobi Ojo ",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "title": "MIT",
+      "path": "https://github.com/Ojosticka/Data-Wrangling-Exercise/blob/main/license.txt"
+    }
+  ]
+}
