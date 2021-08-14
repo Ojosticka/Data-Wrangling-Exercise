@@ -44,4 +44,4 @@ To use this project locally,
 
 `get_data` function is used for solving this challenge.
 The get_data function takes the wikipedia url and scrapes it for the data necessary by indexing the list of tables gotten for the specific table. This data is then arranged and filtered according to the requiremnets of the task.
-The resulting data is then populated to a CSV file located in the [data folder] (C:\Users\oluwa\Videos\Tutorials\Data-Wrangling-Challenge-Datopian\Road_safety_project\data)
+The resulting data is then populated to a CSV file located in the [data folder] (Road_safety_project/data/data.csv)
