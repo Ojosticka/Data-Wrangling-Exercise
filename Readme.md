@@ -19,11 +19,11 @@ To use this project locally,
 - [python](https://www.python.org/downloads/) for `.py` or
 - [anaconda](https://www.anaconda.com/products/individual) for `.ipynb` or
 - better still a code editor such as [Vscode](https://code.visualstudio.com/download) which is my personal best as it can run both files seamlessly. It should be installed alongside an interpreter, i suggest [python pack](https://code.visualstudio.com/docs/python/coding-pack-python).
-- [Power bi desktop](https://powerbi.microsoft.com/en-us/downloads/) will be needed to view the visualized file, chart_summary.
+- [Power bi desktop](https://powerbi.microsoft.com/en-us/downloads/) will be needed to view the visualized file, chart summary.
 
 ### 1. Clone the repository
 
-    `git clone -b master https://github.com/adams-id/data_wrangling_exercise.git`
+    `git clone https://github.com/Ojosticka/Data-Wrangling-Exercise.git`
 
 ### 2. Start the virtual environment: Run the following commands in the project root folder
 
